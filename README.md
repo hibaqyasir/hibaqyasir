@@ -1,5 +1,6 @@
-## Hi there 👋
+![MyBanner](https://github.com/user-attachments/assets/fefdb13d-3c4a-4d04-90be-299e606638a5)
 
+## Hi there 👋
 <!--
 **hibaqyasir/hibaqyasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
